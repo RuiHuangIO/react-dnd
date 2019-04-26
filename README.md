@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React app utilizing Netlify Dev
+Click [here](elastic-knuth-b6808a.netlify.com) to view the site
 
 ## Available Scripts
 
